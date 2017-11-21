@@ -23,8 +23,7 @@ import ui.adapter.HomePageAdater;
 import ui.login.LoginActivity;
 
 public class MainActivity extends AppCompatActivity {
-    //123456789
-    //fsdfjjgdf
+ 
 
 
     ListView list;
@@ -33,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     List<HomeModel.DataBean> list1 = new ArrayList<>();
     List<HomeModel.DataBean> l = new ArrayList<>();
     HomePageAdater homePageAdater;
-    //tdasdsa
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -95,7 +94,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-//dasdasd
-   // /dsadasd
+
 
 }

@@ -53,11 +53,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     ImageView clear;
     String phone, code;
     TextView login_code, login_back;
-
     private TimeCount time;
-     
-	//dsadsa
- 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

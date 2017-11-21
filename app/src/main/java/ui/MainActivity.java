@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     List<HomeModel.DataBean> list1 = new ArrayList<>();
     List<HomeModel.DataBean> l = new ArrayList<>();
     HomePageAdater homePageAdater;
-    //t
+    //tdasdsa
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -95,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
+//dasdasd
+   // /dsadasd
 
 }

@@ -23,6 +23,7 @@ import ui.adapter.HomePageAdater;
 import ui.login.LoginActivity;
 
 public class MainActivity extends AppCompatActivity {
+    //156546565465dsadas
 
 
     ListView list;

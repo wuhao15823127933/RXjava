@@ -56,7 +56,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
     private TimeCount time;
      
-	 
+	//dsadsa
  
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {

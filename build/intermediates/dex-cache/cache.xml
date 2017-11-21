@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hao\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\Hao\Desktop\RxJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_8bfd04dd67e12ac88006d5b071ddfc75cde95fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hao\Desktop\RxJava\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c12eef75f4794ba92c2485a1393708556f07c318">
+        <dex dex="C:\Users\Hao\Desktop\RxJava\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_64c5ec3c9eb7a0220262e6491027b6acd2e7a624\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hao\.android\build-cache\fa1feb2a997264c4a4165135446721b1af646f2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="C:\Users\Hao\Desktop\RxJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_419cb0a5fb340331cebe557fd3e24879792b5530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hao\.android\build-cache\04616aa63f68bf1073172301a4f22b32db512f02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ccaa4597bbb693c6c58959588f80f84d3c5e6df8">
+        <dex dex="C:\Users\Hao\Desktop\RxJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01fbafdc6439d1d97b260700649da2799da09583\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hao\Desktop\RxJava\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Hao\Desktop\RxJava\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e6e18ae1408875b88af120617b8a6fd44dc90146\classes.dex" />
+    </item>
+
+</items>

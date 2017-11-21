@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="180px"
+
+        >
+
+        <ImageView
+            android:id="@+id/home_icon"
+            android:layout_width="121px"
+            android:layout_height="113.9px"
+            android:src="@mipmap/logo"
+            android:layout_marginLeft="20px"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            />
+        <LinearLayout
+            android:layout_marginLeft="20px"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+
+            >
+          <!--//////////////////////////////////////////////-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0px"
+                android:orientation="horizontal"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                >
+                <TextView
+                    android:id="@+id/name"
+                      android:layout_weight="1"
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:text="刘琴琴"
+                    android:textColor="#000"
+                    android:textSize="32px"
+
+                    />
+                <TextView
+                    android:id="@+id/te_dstance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="10km"
+                    android:gravity="center"
+                    android:textColor="#88888888"
+                    android:textSize="26px"
+                    android:layout_marginRight="37px"
+                    />
+
+            </LinearLayout>
+            <!--//////////////////////////////////////////////-->
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0px"
+                android:orientation="horizontal"
+                android:layout_weight="1"
+
+                >
+                <TextView
+                    android:id="@+id/company"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="深圳市乐微科技有限公司"
+                    android:textColor="#88888888"
+                    android:textSize="28px"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:id="@+id/job"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="业务经理"
+                    android:layout_gravity="center"
+                    android:textColor="#88888888"
+                    android:textSize="28px"
+                   android:layout_marginLeft="20px"
+                    />
+
+            </LinearLayout>
+            <!--//////////////////////////////////////////////-->
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0px"
+                android:orientation="horizontal"
+                android:layout_weight="1"
+
+                >
+                <TextView
+                  android:id="@+id/te_resources"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="资源:影视资源,媒体资源"
+                    android:textColor="#88888888"
+                    android:textSize="28px"
+                    android:layout_gravity="top"
+                    />
+
+
+            </LinearLayout>
+            <!--//////////////////////////////////////////////-->
+
+        </LinearLayout>
+
+
+
+    </LinearLayout
+        >
+
+</LinearLayout>

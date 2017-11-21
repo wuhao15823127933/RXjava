@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     List<HomeModel.DataBean> list1 = new ArrayList<>();
     List<HomeModel.DataBean> l = new ArrayList<>();
     HomePageAdater homePageAdater;
-
+    //test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
